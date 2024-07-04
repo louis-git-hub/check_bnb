@@ -1,0 +1,3 @@
+https://www.airbnb.com/calendar/ical/44188454.ics?s=84143b42c42f4e422f9e6fa591b4dade&locale=fr
+
+https://ical.booking.com/v1/export?t=5519463d-579b-402c-86b7-7617d1966670
